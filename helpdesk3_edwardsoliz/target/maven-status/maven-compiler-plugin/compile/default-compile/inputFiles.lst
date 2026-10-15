@@ -1,0 +1,15 @@
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\controlador\LoginController.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\controlador\ReporteController.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\controlador\SettingsController.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\controlador\TecnicoController.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\controlador\UsuarioController.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\ConexionMySQL.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\Especialidad.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\Login.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\ReporteDao.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\ReportePDF.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\Tecnico.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\Usuario.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\modelo\UsuarioDao.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\vista\InterfazLogin.java
+D:\DISEÑO Y PROGRAMACION WEB\4TO BIMESTRE PROGRMACION\helpdesk3_EDWARDSOLIZ\helpdesk3_edwardsoliz\src\main\java\vista\InterfazPrincipal.java
